@@ -1,0 +1,11 @@
+kingrec.com.br/admin
+Login: rafael@king.com.br
+Senha: 123456
+----------------------------------
+Host de FTP: ftp.kingrec.com.br
+Usuário de FTP: kingrec
+Senha de FTP: kingrec@2016_
+----------------------------------
+www.locaweb.com.br
+Usuário: bandaoverall
+Senha: lemusa

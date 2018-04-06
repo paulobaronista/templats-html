@@ -1,0 +1,15 @@
+kingrec.com.br/admin
+login rafael@king.com.br
+senha  123456
+
+------------------------------
+
+locaweb
+Usuário: bandaoverall
+Senha: lemusa
+
+---------------------------
+ftp.kingrec.com.br
+Usuario: kingrec 
+Senha: kingrec2016
+
